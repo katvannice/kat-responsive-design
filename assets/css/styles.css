@@ -1,2 +1,17 @@
 /* styles.css */
+:root {
+  /* CSS HEX */
+--black: #040403ff;
+--dusty-olive: #5b7553ff;
+--muted-teal: #8eb897ff;
+--tea-green: #c3e8bdff;
+--celadon: #9ddbadff;
+}
 
+html {
+  background-color: var(--tea-green);
+}
+
+h1 {
+  color: var(--dusty-olive);
+}
