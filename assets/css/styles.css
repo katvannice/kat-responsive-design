@@ -8,7 +8,7 @@
 --celadon: #9ddbadff;
 }
 
-html {
+body {
   background-color: var(--tea-green);
 }
 
