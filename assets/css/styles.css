@@ -15,6 +15,10 @@ body {
 h1 {
   color: var(--dusty-olive);
 }
+h2 {
+  font-size: calc(1.325rem + .9vw);
+line-height: 1.2;
+}
 
 h3 {
   font-size: calc(1.325rem + .9vw);
